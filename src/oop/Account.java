@@ -111,6 +111,7 @@ public class Account {
 		}
 		return false;
 	}
+	// git 연습 추가코드입니다.
 
 	/*
 	 * @Override public boolean equals(Object obj) { Account account = (Account)
